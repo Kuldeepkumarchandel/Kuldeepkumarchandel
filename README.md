@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **PILL- BOX, Docking and GPS Tracker**
 
-- 💬 Ask me about **Embedded C, Espressif Microcontroller, CAN/K-LINE BUS, RS485/Rs232, One-wire, UART/SPI/I2C,GPS and GSM Modules, WiFi, BLE, Protocols like TCPIP, MQTTS**
+- 💬 Ask me about **Embedded C, Espressif Microcontroller, CAN/K-LINE BUS, Battery Management System, RS485/Rs232, One-wire, UART/SPI/I2C, GPS and GSM Modules, WiFi, BLE, Protocols like TCPIP, MQTTS**
 
 - 📫 How to reach me **Chandel.kuldeepkumar077@gmail.com**
 
