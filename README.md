@@ -42,7 +42,7 @@ Hi <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/m
   - ESP32, ESP32-S3 , ESP32-C3
   - NORDIC
   - AVR MCU
-  - 
+  
 <p align="left">
 </p>
 
