@@ -3,7 +3,7 @@
 
 <h1 align="center">My name is Kuldeep Kumar Chandel</h1>
 Hi <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> </a>
-, I'm an Embedded developer with a passion for programming and electronics. I have experience working on a variety of projects, from designing project layout to programming microcontrollers. I take pride in writing efficient, clean code that meets project requirements and exceeds expectations. When I'm not busy with work, I enjoy exploring new technologies and expanding my knowledge of the field. I am always eager to collaborate with others and take on new challenges in the world of embedded development.
+ I'm an Embedded developer with a passion for programming and electronics. I have experience working on a variety of projects, from designing project layout to programming microcontrollers. I take pride in writing efficient, clean code that meets project requirements and exceeds expectations. When I'm not busy with work, I enjoy exploring new technologies and expanding my knowledge of the field. I am always eager to collaborate with others and take on new challenges in the world of embedded development.
 
 <img align="right" alt="Coding" width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
 
