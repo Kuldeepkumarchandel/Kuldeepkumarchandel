@@ -34,6 +34,7 @@ Hi <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/m
 - **Network Protocols.**
   - TCP/IP
   - HTTP/S
+  - MQTT
   - APIs.
 - **RTOS.**
   - FreeRTOS.
